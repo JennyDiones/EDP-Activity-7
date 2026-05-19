@@ -35,7 +35,7 @@ namespace BookstoreIS.Forms
             });
             pnlHeader.Controls.Add(new Label
             {
-                Text      = "Information System - Version 1.0.0",
+                Text      = "Information System - Version 1.0.2",
                 ForeColor = Color.FromArgb(180, 200, 255),
                 AutoSize  = false,
                 Size      = new Size(460, 22),

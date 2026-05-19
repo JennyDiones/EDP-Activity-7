@@ -49,7 +49,7 @@ namespace BookstoreIS.Forms
 
             lblTitle = new Label
             {
-                Text = "Password Recovery",
+                Text = "Password Recoverry",
                 Font = new Font("Segoe UI", 14f, FontStyle.Bold),
                 ForeColor = Color.FromArgb(0, 100, 0),
                 AutoSize = true,

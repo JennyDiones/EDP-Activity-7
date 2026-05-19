@@ -31,7 +31,7 @@ namespace BookstoreIS.Forms
             StartPosition = FormStartPosition.CenterScreen;
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
-            BackColor = Color.FromArgb(255, 248, 220);
+            BackColor = Color.FromArgb(255, 249, 220);
 
             // Main Title
             lblTitle = new Label
